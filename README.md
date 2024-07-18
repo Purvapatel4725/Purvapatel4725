@@ -1,4 +1,3 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/ParadoxCanDoxX.png" alt="TryHackMe">
 <h1 align="center">Hi, I'm Purva</h1>
 <h3 align="center">The more I explore the internet, the less I trust it.</h3>
 
