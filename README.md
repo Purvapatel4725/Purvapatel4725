@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Purva</h1>
+<script src="https://tryhackme.com/badge/2273748"></script>
+<h1 align="center">Hi, I'm Purva</h1>
 <h3 align="center">The more I explore the internet, the less I trust it.</h3>
 
 - 🔭 I’m currently working on [TryHackMe](https://tryhackme.com/p/ParadoxCanDoxX)
