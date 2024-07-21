@@ -1,5 +1,5 @@
 <h1 align="center" class="anton-sc-regular">Hi, I'm Purva</h1>
-<h3 align="center">Pursuing a Bachelor's degree in IT, Networking, and IT Security (Honors) at <a href="https://ontariotechu.ca/" target="_blank" rel="noreferrer">Ontario Tech University</a>. I'm ranked in the top 1% on <a href="https://tryhackme.com/p/ParadoxCanDoxX" target="_blank" rel="noreferrer">TryHackMe</a>, reflecting my advanced skills and dedication to cybersecurity. My particular interest lies in penetration testing, where I enjoy uncovering vulnerabilities and strengthening security measures.</h3>
+<h4 align="center">Pursuing a Bachelor's degree in IT, Networking, and IT Security (Honors) at <a href="https://ontariotechu.ca/" target="_blank" rel="noreferrer">Ontario Tech University</a>. I'm ranked in the top 1% on <a href="https://tryhackme.com/p/ParadoxCanDoxX" target="_blank" rel="noreferrer">TryHackMe</a>, reflecting my advanced skills and dedication to cybersecurity. My particular interest lies in penetration testing, where I enjoy uncovering vulnerabilities and strengthening security measures.</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
