@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Purva</h1>
-<h3 align="center">The more I explore the internet, the less I trust it.</h3>
-
-- 🔭 I’m currently working on [TryHackMe](https://tryhackme.com/p/ParadoxCanDoxX)
-
-- 📫 How to reach me **purvapatel4725@gmail.com**
+<h3 align="center">Pursuing a Bachelor's degree in IT, Networking, and IT Security (Honors) at Ontario Tech University. I'm ranked in the top 1% on TryHackMe, reflecting my advanced skills and dedication to cybersecurity. My particular interest lies in penetration testing, where I enjoy uncovering vulnerabilities and strengthening security measures.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
