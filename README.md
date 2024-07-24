@@ -9,12 +9,10 @@
 
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Purvapatel4725&show_icons=true&theme=radical">
-</p>
-<p align='left'>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvapatel4725&show_icons=true&hide_border=true&theme=radical">
 </p>
-
-<h3 align="center">Visitor count</h3>
-<p align='center'> 
-  <img src="https://profile-counter.glitch.me/Purvapatel4725/count.svg" />
+<p align='left'>
+  
 </p>
+
+
