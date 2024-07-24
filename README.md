@@ -15,6 +15,6 @@
 </p>
 
 <p align='center'> 
-  Visitor count<br>
+  <h3>Visitor count</h3>
   <img src="https://profile-counter.glitch.me/Purvapatel4725/count.svg" />
 </p>
