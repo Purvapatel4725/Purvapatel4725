@@ -7,9 +7,10 @@
 <a href="https://linkedin.com/in/purva-patel-78a10121b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purva-patel-78a10121b" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-<img src="logo.png" alt="alt text" width="20%" style="border: 5px solid green; border-radius: 50%; display: inline-block;">
-  ![Purva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Purvapatel4725&show_icons=true&theme=radical)
+<p align="left">
+<img src="logo.png" alt="alt text" width="20%">
 </p>
 
-
+<p align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=Purvapatel4725&show_icons=true&theme=radical">
+</p>
