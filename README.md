@@ -7,13 +7,8 @@
 <a href="https://linkedin.com/in/purva-patel-78a10121b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purva-patel-78a10121b" height="30" width="40" /></a>
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <p style="flex: 1;">
-    <img src="logo.png" alt="alt text" width="20%">
-  </p>
-  <p style="flex: 1; text-align: right;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Purvapatel4725&show_icons=true&theme=radical">
-  </p>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Purvapatel4725&show_icons=true&theme=radical">
+</p>
 
 
