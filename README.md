@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvapatel4725&show_icons=true&hide_border=true&theme=radical">
 </p>
 
-<h3>Visitor count</h3>
+<h3 align="center">Visitor count</h3>
 <p align='center'> 
   <img src="https://profile-counter.glitch.me/Purvapatel4725/count.svg" />
 </p>
