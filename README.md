@@ -11,8 +11,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Purvapatel4725&show_icons=true&theme=radical">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvapatel4725&show_icons=true&hide_border=true&theme=radical">
 </p>
-<p align='left'>
-  
-</p>
+
 
 
