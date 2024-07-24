@@ -8,12 +8,12 @@
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1;">
+  <p style="flex: 1;">
     <img src="logo.png" alt="alt text" width="20%">
-  </div>
-  <div style="flex: 1; text-align: right;">
+  </p>
+  <p style="flex: 1; text-align: right;">
     <img src="https://github-readme-stats.vercel.app/api?username=Purvapatel4725&show_icons=true&theme=radical">
-  </div>
+  </p>
 </div>
 
 
