@@ -9,6 +9,7 @@
 
 <p align="center">
 <img src="logo.png" alt="alt text" width="20%" style="border: 5px solid green; border-radius: 50%; display: inline-block;">
+  ![Purva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Purvapatel4725&show_icons=true&theme=radical)
 </p>
 
-![Purva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Purvapatel4725&show_icons=true&theme=radical)
+
