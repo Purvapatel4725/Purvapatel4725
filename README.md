@@ -1,4 +1,4 @@
-<h1 align="center" class="anton-sc-regular">About Me</h1>
+<h3 align="center" class="anton-sc-regular">About Me</h3>
 <p align="center">I am currently pursuing a Bachelor's degree in IT, Networking, and IT Security (Honors) at <a href="https://ontariotechu.ca/" target="_blank" rel="noreferrer">Ontario Tech University</a>. I'm ranked in the top 1% on <a href="https://tryhackme.com/p/ParadoxCanDoxX" target="_blank" rel="noreferrer">TryHackMe</a>, reflecting my advanced skills and dedication to cybersecurity. My particular interest lies in penetration testing, where I enjoy uncovering vulnerabilities and strengthening security measures.</p>
 
 <h3 align="center">Connect with me:</h3>
