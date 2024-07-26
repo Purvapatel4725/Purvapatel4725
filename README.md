@@ -61,6 +61,7 @@ I am currently pursuing a Bachelor's degree in Information Technology, Networkin
 </p>
 
 
+
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Purvapatel4725&style=for-the-badge&color=orange" alt=""/>
 </div>
