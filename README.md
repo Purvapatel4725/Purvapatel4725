@@ -25,7 +25,7 @@ I am currently pursuing a Bachelor's degree in Information Technology, Networkin
 
 | nodejs | Git | Docker | Postman | Kubernetes |
 |----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="K8s" alt="K8s" width="55" height="55"/>
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="K8s" alt="K8s" width="55" height="55"/>
 
 ### My tools for Data Manipulation & Visualisation:
 
