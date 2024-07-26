@@ -8,6 +8,9 @@ I am currently pursuing a Bachelor's degree in Information Technology, Networkin
 <a href="https://twitter.com/purvapatel4725" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="purvapatel4725" height="50" width="50" /></a>
 <a href="mailto:purva.patel@myyahoo.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="email" height="50" width="50" /></a>
 
+## TryHackMe
+![tryhackme stats](https://raw.githubusercontent.com/Purvapatel4725/Purvapatel4725/master/assets/thm_propic.png)
+
 ## Languages and Tools 
 <div>
 
