@@ -42,11 +42,20 @@
 |----------|----------|----------|----------|----------|
 |<img src="assets/meta.png" alt="msf" width="85" height="55" />|<img src="assets/Wireshark_icon.svg.png" alt="wsh" width="55" height="55" />|<img src="assets/burp.svg" alt="burp" width="85" height="55" />|<img src="assets/netcat_logo_shadow.svg" alt="netcat" width="55" height="55" />|<img src="assets/nmap-logo.svg" alt="nmap" width="55" height="55" />|
 
+---
+
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
 
 <h3 align="left">Check out my stats:</h3>
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Purvapatel4725&show_icons=true&theme=radical">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvapatel4725&show_icons=true&hide_border=true&theme=radical">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvapatel4725&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
 
