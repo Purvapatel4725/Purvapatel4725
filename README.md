@@ -74,7 +74,7 @@ I am currently pursuing a Bachelor's degree in Information Technology, Networkin
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvapatel4725&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
-
+---
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Purvapatel4725&style=for-the-badge&color=orange" alt=""/>
