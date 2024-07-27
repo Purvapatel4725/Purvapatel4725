@@ -58,7 +58,7 @@ I am currently pursuing a Bachelor's degree in Information Technology, Networkin
 ---
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Purvapatel4725&theme=onestar">
+<img src="https://github-profile-trophy.vercel.app/?username=Purvapatel4725&theme=juicyfresh">
 </p>
 
 ---
