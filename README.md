@@ -10,7 +10,7 @@ I am currently pursuing a Bachelor's degree in Information Technology, Networkin
 <a href="mailto:purva.patel@myyahoo.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="email" height="50" width="50" /></a>
 <a href="https://purvapatel4725.github.io/purvapatel/" target="blank"><img align="center" src="assets/link.png" alt="MyWebsite" height="50" width="50" /></a>
 
-## Languages And Tools 
+## Core Competencies 
 <div>
 
 ### Databases:
