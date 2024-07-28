@@ -12,6 +12,12 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 
 ## Core Competencies 
 <div>
+  
+### Log Analytics Tools:
+
+| Kibana |
+|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Kiba" alt="Kiba" width="55" height="55"/>|
 
 ### Databases:
 
@@ -29,12 +35,6 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 | Anaconda | Jupyter | Matplotlib | Plotly |
 |----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="anaconda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="55" height="55"/>|
-
-### Log and Time-Series Analytics Tools:
-
-| Anaconda |
-|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Kiba" alt="Kiba" width="55" height="55"/>|
 
 ### OS:
 
