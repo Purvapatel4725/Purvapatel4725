@@ -24,7 +24,7 @@ I am currently pursuing a Bachelor's degree in Information Technology, Networkin
 |----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash"  alt="bash" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
   
-### My tools for Data Manipulation & Visualisation:
+### Data Handling and Visualization Technologies:
 
 | Anaconda | Jupyter | Matplotlib |
 |----------|----------|----------|
