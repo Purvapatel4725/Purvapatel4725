@@ -1,16 +1,16 @@
-## About Me
+## ABOUT ME
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Hi%2C+my+name+is+Purva+%3A\))](https://git.io/typing-svg)                             
 I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT Security (Honors) at Ontario Tech University, and I’m ranked in the top 1% on <a href="https://tryhackme.com/p/ParadoxCanDoxX" target="_blank" rel="noreferrer">TryHackMe</a>. My passion for penetration testing drives me to uncover vulnerabilities and enhance security measures. My journey began at age 12 when I started exploring and fixing vulnerabilities on my home network, which ignited my curiosity and solidified my expertise in cybersecurity. Alongside technology, I have a keen interest in business, geopolitics, and world history, which enriches my understanding of global trends and decision-making, providing a well-rounded approach to tackling both technical and strategic challenges.
 
 **Want to know more about me? Click <a href="https://purvapatel4725.github.io/purvapatel/" target="_blank" rel="noreferrer">HERE</a>.**
 
-## Socials
+## SOCIALS
 <a href="https://linkedin.com/in/purva-patel-78a10121b" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="purva-patel-78a10121b" height="50" width="50" /></a> 
 <a href="https://twitter.com/purvapatel4725" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="purvapatel4725" height="50" width="50" /></a>
 <a href="mailto:purva.patel@myyahoo.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="email" height="50" width="50" /></a>
 <a href="https://purvapatel4725.github.io/purvapatel/" target="blank"><img align="center" src="assets/link.png" alt="MyWebsite" height="50" width="50" /></a>
 
-## Core Competencies 
+## CORE COMPETENCIES
 <div>
   
 ### Log Analytics Tools:
@@ -36,19 +36,19 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="kaliLinux" alt="kaliLinux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
 
-### Data Handling and Visualization Technologies:
-
-| Anaconda | Jupyter | Matplotlib | Plotly |
-|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="anaconda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="55" height="55"/>|
-
-### Python libraries:
+### Python Libraries:
 
 | Tensorflow | Numpy | Pandas | Sklearn | 
 |----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow"  alt="tensorflow" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| |
 
-### Environments, Testing, Other:
+### Data Handling and Visualization Technologies:
+
+| Anaconda | Jupyter | Matplotlib | Plotly | Colab |
+|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="anaconda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Colab" alt="colab" width="55" height="55"/>|
+
+### Development, Testing, and Utilities:
 
 | nodejs | Git | Docker | Postman | Kubernetes |
 |----------|----------|----------|----------|----------|
