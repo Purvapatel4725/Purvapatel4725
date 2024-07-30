@@ -33,7 +33,7 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 ### AI Tools:
 | ChatGPT | Gemini | Llma | 
 |----------|----------|----------|
-|  <img src="assets/chatgpt.svg" title="chatgpt"  alt="chatgpt" width="55" height="55"/> |  <img src="assets/gemini.svg" title="Gemini"  alt="Gemini" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+|  <img src="assets/chatgpt.svg" title="chatgpt"  alt="chatgpt" width="55" height="55"/> |  <img src="assets/gemini.svg" title="Gemini"  alt="Gemini" width="55" height="55"/> |  <img src="assets/meta.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
 
 
 ### OS:
