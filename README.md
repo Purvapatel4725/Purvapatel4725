@@ -31,9 +31,9 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash"  alt="bash" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
 
 ### AI Tools:
-| ChatGPT | Gemini | Llma | 
-|----------|----------|----------|
-|  <img src="assets/chatgpt.svg" title="chatgpt"  alt="chatgpt" width="55" height="55"/> |  <img src="assets/gemini.svg" title="Gemini"  alt="Gemini" width="55" height="55"/> |  <img src="assets/meta.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+| ChatGPT | Gemini | Llma | Copilot |
+|----------|----------|----------|----------|
+|  <img src="assets/chatgpt.svg" title="chatgpt"  alt="chatgpt" width="55" height="55"/> |  <img src="assets/gemini.svg" title="Gemini"  alt="Gemini" width="55" height="55"/> |  <img src="assets/meta.svg" title="meta" alt="meta" width="55" height="55"/> | <img src="https://img.icons8.com/?size=100&id=PxQoyT1s0uFh&format=png&color=000000" title="Gemini"  alt="Gemini" width="55" height="55"/> |
 
 
 ### OS:
