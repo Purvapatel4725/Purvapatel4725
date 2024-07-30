@@ -64,7 +64,7 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Purvapatel4725&theme=juicyfresh&title=-Reviews&no-frame=true&margin-w=18">
+  <img src="https://github-profile-trophy.vercel.app/?username=Purvapatel4725&theme=juicyfresh&title=-Reviews,-Experience&no-frame=true&margin-w=18&column=-1">
 </p>
 
 ---
