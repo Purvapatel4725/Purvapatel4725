@@ -33,7 +33,7 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 ### AI Tools:
 | ChatGPT | Gemini | Llma | Copilot |
 |----------|----------|----------|----------|
-|  <img src="assets/chatgpt.svg" title="chatgpt"  alt="chatgpt" width="55" height="55"/> |  <img src="assets/gemini.svg" title="Gemini"  alt="Gemini" width="55" height="55"/> |  <img src="assets/meta.svg" title="meta" alt="meta" width="55" height="55"/> | <img src="https://img.icons8.com/?size=100&id=PxQoyT1s0uFh&format=png&color=000000" title="Gemini"  alt="Gemini" width="55" height="55"/> |
+|  <img src="assets/chatgpt.svg" title="chatgpt"  alt="chatgpt" width="55" height="55"/> |  <img src="assets/gemini.svg" title="Gemini"  alt="Gemini" width="55" height="55"/> |  <img src="assets/meta.svg" title="meta" alt="meta" width="55" height="55"/> | <img src="https://img.icons8.com/?size=100&id=PxQoyT1s0uFh&format=png&color=000000" title="copilot"  alt="copilot" width="55" height="55"/> |
 
 
 ### OS:
@@ -56,9 +56,9 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 
 ### Development, Testing, and Utilities:
 
-| nodejs | Git | Docker | Postman | Kubernetes |
-|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="K8s" alt="K8s" width="55" height="55"/>
+| nodejs | Git | Docker | Postman | Kubernetes | VS Code |
+|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="K8s" alt="K8s" width="55" height="55"/>| <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" title="vs"  alt="vs" width="55" height="55"/> |
 
 ### Tools:
  
