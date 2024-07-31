@@ -30,12 +30,10 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 |----------|----------|----------|----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash"  alt="bash" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/> |
 
-
 ### AI Tools:
-| ChatGPT | Gemini | Llama | Copilot |
-|----------|----------|----------|----------|
-|  <img src="assets/chatgpt.svg" title="chatgpt"  alt="chatgpt" width="55" height="55"/> |  <img src="assets/gemini.svg" title="Gemini"  alt="Gemini" width="55" height="55"/> |  <img src="assets/meta.svg" title="meta" alt="meta" width="55" height="55"/> | <img src="https://img.icons8.com/?size=100&id=PxQoyT1s0uFh&format=png&color=000000" title="copilot"  alt="copilot" width="55" height="55"/> |
-
+| ChatGPT | Gemini | Llama | Copilot | MidJourney | DALL-E |
+|----------|----------|----------|----------|----------|----------|
+|  <img src="assets/chatgpt.svg" title="chatgpt"  alt="chatgpt" width="55" height="55"/> |  <img src="assets/gemini.svg" title="Gemini"  alt="Gemini" width="55" height="55"/> |  <img src="assets/meta.svg" title="meta" alt="meta" width="55" height="55"/> | <img src="https://img.icons8.com/?size=100&id=PxQoyT1s0uFh&format=png&color=000000" title="copilot"  alt="copilot" width="55" height="55"/> | <img src="https://img.icons8.com/?size=100&id=jglvYLOkuYXi&format=png&color=000000" title="MidJourney"  alt="MidJourney" width="55" height="55"/> | <img src="https://img.icons8.com/?size=100&id=46gNeT4X7y2Z&format=png&color=000000" title="DALL-E"  alt="DALL-E" width="55" height="55"/> |
 
 ### OS:
 
