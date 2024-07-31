@@ -13,11 +13,11 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 ## CORE COMPETENCIES
 <div>
   
-### Log Analytics Tools:
+### Analytics Tools:
 
-| Kibana |
-|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Kiba" alt="Kiba" width="55" height="55"/>|
+| Kibana | Snort |  Wireshark | Splunk | Brim |
+|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Kiba" alt="Kiba" width="55" height="55"/>| <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" title="snort" alt="snort" width="55" height="55"/>| <img src="assets/Wireshark_icon.svg.png" alt="wsh" width="55" height="55" /> | <img src="https://img.icons8.com/?size=100&id=49188&format=png&color=000000" title="splunk" alt="splunk" width="55" height="55"/>|<img src="assets/brim.svg" alt="burp" width="85" height="55" />
 
 ### Databases:
 
@@ -41,29 +41,29 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 |----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" title="Fedora" alt="Fedora" width="55" height="55"/> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="kaliLinux" alt="kaliLinux" width="55" height="55"/> <img src="https://img.icons8.com/?size=100&id=9AGJqJd3YEdk&format=png&color=000000" title="ParrotOS" alt="ParrotOS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://img.icons8.com/?size=100&id=122959&format=png&color=000000" title="macos" alt="macos" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" alt="Unix" width="55" height="55"/> |
 
-### Python Libraries:
+### Framework & Libraries:
 
-| Tensorflow | Numpy | Pandas | Sklearn | 
-|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow"  alt="tensorflow" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| |
+| Tensorflow | Numpy | Pandas | Sklearn| Flask| Django | Bootstrap |
+|----------|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow"  alt="tensorflow" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="55" height="55"/> | 
 
-### Data Handling and Visualization Technologies:
+### Data Handling & Visualization Technologies:
 
 | Anaconda | Jupyter | Matplotlib | Plotly | Colab |
 |----------|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="anaconda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Colab" alt="colab" width="55" height="55"/>|
 
-### Development, Testing, and Utilities:
+### Development, Testing, & Utilities:
 
-| nodejs | Git | Docker | Postman | Kubernetes | VS Code |
-|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="K8s" alt="K8s" width="55" height="55"/>| <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" title="vs"  alt="vs" width="55" height="55"/> |
+| nodejs | Git | Docker | Postman | Kubernetes | VS Code | Netlify | GitHub |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="K8s" alt="K8s" width="55" height="55"/>| <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" title="vs"  alt="vs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify"  alt="Netlify" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub"  alt="GitHub" width="55" height="55"/> |
 
-### Tools:
+### Othre Tools:
  
-| Metasploit | Wireshark | Burpsuite | Netcat | Nmap | Brim |
-|----------|----------|----------|----------|----------|----------|
-|<img src="assets/metasploit.png" alt="msf" width="85" height="55" />|<img src="assets/Wireshark_icon.svg.png" alt="wsh" width="55" height="55" />|<img src="assets/burp.svg" alt="burp" width="85" height="55" />|<img src="assets/netcat_logo_shadow.svg" alt="netcat" width="55" height="55" />|<img src="assets/nmap-logo.svg" alt="nmap" width="55" height="55" />|<img src="assets/brim.svg" alt="burp" width="85" height="55" />|
+| Metasploit | Burpsuite | Netcat | Nmap | 
+|----------|----------|----------|----------|
+|<img src="assets/metasploit.png" alt="msf" width="85" height="55" />|<img src="assets/burp.svg" alt="burp" width="85" height="55" />|<img src="assets/netcat_logo_shadow.svg" alt="netcat" width="55" height="55" />|<img src="assets/nmap-logo.svg" alt="nmap" width="55" height="55" />|
 </div>
 
 ---
