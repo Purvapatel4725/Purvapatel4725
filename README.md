@@ -2,11 +2,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33FF00FF&vCenter=true&width=435&lines=Hi%2C+my+name+is+Purva+%3A)" alt="Typing SVG" /></a>         
 I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT Security (Honors) at Ontario Tech University, and I’m ranked in the top 1% on <a href="https://tryhackme.com/p/ParadoxCanDoxX" target="_blank" rel="noreferrer">TryHackMe</a>. My passion for penetration testing drives me to uncover vulnerabilities and enhance security measures. My journey began at age 12 when I started exploring and fixing vulnerabilities on my home network, which ignited my curiosity and solidified my expertise in cybersecurity. Alongside technology, I have a keen interest in business, geopolitics, and world history, which enriches my understanding of global trends and decision-making, providing a well-rounded approach to tackling both technical and strategic challenges.
 
-**Want to know more about me? Click <a href="https://purvapatel4725.github.io/purvapatel/" target="_blank" rel="noreferrer">HERE</a>.**
+**Want to know more about me? Click <a href="https://purvapatel4725.github.io/purvapatel/" target="_blank" rel="noreferrer">HERE</a>.** 
 
 ## SOCIALS
-<a href="https://linkedin.com/in/purva-patel-78a10121b" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="purva-patel-78a10121b" height="50" width="50" /></a> 
-<a href="https://twitter.com/purvapatel4725" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="purvapatel4725" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/purva-patel-78a10121b" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="purva-patel-78a10121b" height="50" width="50" /></a>
+<a href="https://twitter.com/purvapatel4725" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="purvapatel4725" height="50" width="50" /></a> 
 <a href="mailto:purva.patel@myyahoo.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="email" height="50" width="50" /></a>
 <a href="https://purvapatel4725.github.io/purvapatel/" target="blank"><img align="center" src="assets/link.png" alt="MyWebsite" height="50" width="50" /></a>
 
