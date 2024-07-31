@@ -33,7 +33,7 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 ### AI Tools:
 | ChatGPT | Gemini | Llama | Copilot | MidJourney | DALL-E |
 |----------|----------|----------|----------|----------|----------|
-|  <img src="assets/chatgpt.svg" title="chatgpt"  alt="chatgpt" width="55" height="55"/> |  <img src="assets/gemini.svg" title="Gemini"  alt="Gemini" width="55" height="55"/> |  <img src="assets/meta.svg" title="meta" alt="meta" width="55" height="55"/> | <img src="https://img.icons8.com/?size=100&id=PxQoyT1s0uFh&format=png&color=000000" title="copilot"  alt="copilot" width="55" height="55"/> | <img src="https://img.icons8.com/?size=100&id=jglvYLOkuYXi&format=png&color=000000" title="MidJourney"  alt="MidJourney" width="55" height="55"/> | <img src="https://img.icons8.com/?size=100&id=46gNeT4X7y2Z&format=png&color=000000" title="DALL-E"  alt="DALL-E" width="55" height="55"/> |
+|  <img src="assets/chatgpt.svg" title="chatgpt"  alt="chatgpt" width="55" height="55"/> |  <img src="assets/gemini.svg" title="Gemini"  alt="Gemini" width="55" height="55"/> |  <img src="assets/meta.svg" title="meta" alt="meta" width="55" height="55"/> | <img src="https://img.icons8.com/?size=100&id=PxQoyT1s0uFh&format=png&color=000000" title="copilot"  alt="copilot" width="55" height="55"/> | <img src="assets/midjourney.svg" title="MidJourney"  alt="MidJourney" width="55" height="55"/> | <img src="https://img.icons8.com/?size=100&id=46gNeT4X7y2Z&format=png&color=000000" title="DALL-E"  alt="DALL-E" width="55" height="55"/> |
 
 ### OS:
 
