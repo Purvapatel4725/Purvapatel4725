@@ -1,5 +1,5 @@
 ## ABOUT ME
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Hi%2C+my+name+is+Purva+%3A\))](https://git.io/typing-svg)                             
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Hi%2C+my+name+is+Purva+%3A)" alt="Typing SVG" /></a>         
 I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT Security (Honors) at Ontario Tech University, and I’m ranked in the top 1% on <a href="https://tryhackme.com/p/ParadoxCanDoxX" target="_blank" rel="noreferrer">TryHackMe</a>. My passion for penetration testing drives me to uncover vulnerabilities and enhance security measures. My journey began at age 12 when I started exploring and fixing vulnerabilities on my home network, which ignited my curiosity and solidified my expertise in cybersecurity. Alongside technology, I have a keen interest in business, geopolitics, and world history, which enriches my understanding of global trends and decision-making, providing a well-rounded approach to tackling both technical and strategic challenges.
 
 **Want to know more about me? Click <a href="https://purvapatel4725.github.io/purvapatel/" target="_blank" rel="noreferrer">HERE</a>.**
@@ -59,7 +59,7 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 |----------|----------|----------|----------|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="K8s" alt="K8s" width="55" height="55"/>| <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" title="vs"  alt="vs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify"  alt="Netlify" width="55" height="55"/> | <img src="https://img.icons8.com/?size=100&id=D5XsEXNbhkMI&format=png&color=000000" title="GitHub"  alt="GitHub" width="55" height="55"/> |
 
-### Othre Tools:
+### Other Tools:
  
 | Metasploit | Burpsuite | Netcat | Nmap | Nano | Vim |
 |----------|----------|----------|----------|----------|----------|
