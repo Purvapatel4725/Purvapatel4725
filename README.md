@@ -49,21 +49,21 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 
 ### Data Handling & Visualization Technologies:
 
-| Anaconda | Jupyter | Matplotlib | Plotly | Colab |
-|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="anaconda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Colab" alt="colab" width="55" height="55"/>|
+| Anaconda | Jupyter | Matplotlib | Plotly | Colab | Seaborn |
+|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="anaconda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Colab" alt="colab" width="55" height="55"/>| <img src="assets/seaborn.svg" title="seaborn" alt="seaborn" width="55" height="55"/>|
 
 ### Development, Testing, & Utilities:
 
 | nodejs | Git | Docker | Postman | Kubernetes | VS Code | Netlify | GitHub |
 |----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="K8s" alt="K8s" width="55" height="55"/>| <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" title="vs"  alt="vs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify"  alt="Netlify" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub"  alt="GitHub" width="55" height="55"/> |
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="K8s" alt="K8s" width="55" height="55"/>| <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" title="vs"  alt="vs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify"  alt="Netlify" width="55" height="55"/> | <img src="https://img.icons8.com/?size=100&id=D5XsEXNbhkMI&format=png&color=000000" title="GitHub"  alt="GitHub" width="55" height="55"/> |
 
 ### Othre Tools:
  
-| Metasploit | Burpsuite | Netcat | Nmap | 
-|----------|----------|----------|----------|
-|<img src="assets/metasploit.png" alt="msf" width="85" height="55" />|<img src="assets/burp.svg" alt="burp" width="85" height="55" />|<img src="assets/netcat_logo_shadow.svg" alt="netcat" width="55" height="55" />|<img src="assets/nmap-logo.svg" alt="nmap" width="55" height="55" />|
+| Metasploit | Burpsuite | Netcat | Nmap | Nano | Vim |
+|----------|----------|----------|----------|----------|----------|
+|<img src="assets/metasploit.png" alt="msf" width="85" height="55" />|<img src="assets/burp.svg" alt="burp" width="85" height="55" />|<img src="assets/netcat_logo_shadow.svg" alt="netcat" width="55" height="55" />|<img src="assets/nmap-logo.svg" alt="nmap" width="55" height="55" />|<img src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-plain.svg" alt="nano" width="55" height="55" />|<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="55" height="55" />|
 </div>
 
 ---
