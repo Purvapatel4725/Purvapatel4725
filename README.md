@@ -61,9 +61,10 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 
 ### Other Tools:
  
-| Metasploit | Burpsuite | Netcat | Nmap | Nano | Vim |
-|----------|----------|----------|----------|----------|----------|
-|<img src="assets/metasploit.png" alt="msf" width="85" height="55" />|<img src="assets/burp.svg" alt="burp" width="85" height="55" />|<img src="assets/netcat_logo_shadow.svg" alt="netcat" width="55" height="55" />|<img src="assets/nmap-logo.svg" alt="nmap" width="55" height="55" />|<img src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-plain.svg" alt="nano" width="55" height="55" />|<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="55" height="55" />|
+| Metasploit | Burpsuite | Netcat | Nmap | Nano | Vim | AutoHotKey |
+|----------|----------|----------|----------|----------|----------|----------|
+|<img src="assets/metasploit.png" alt="msf" width="85" height="55" />|<img src="assets/burp.svg" alt="burp" width="85" height="55" />|<img src="assets/netcat_logo_shadow.svg" alt="netcat" width="55" height="55" />|<img src="assets/nmap-logo.svg" alt="nmap" width="55" height="55" />|<img src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-plain.svg" alt="nano" width="55" height="55" />|<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="55" height="55" />|<img src="assets/AHK.svg" alt="vim" width="55" height="55" />|
+
 </div>
 
 ---
