@@ -25,10 +25,11 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MonogDB" alt="MonogoDB" width="55" height="55"/>|
 
-### Languages:
-| Python | Bash | JS | 
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash"  alt="bash" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+### Programming & Markup Languages:
+| Python | Bash | JS | HTML | YAML | Markdown | CSS |
+|----------|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash"  alt="bash" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/> |
+
 
 ### AI Tools:
 | ChatGPT | Gemini | Llama | Copilot |
@@ -38,9 +39,9 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 
 ### OS:
 
-| Linux | Windows |
-|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="kaliLinux" alt="kaliLinux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
+| Linux | Windows | Linux | Unix |
+|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" title="Fedora" alt="Fedora" width="55" height="55"/> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="kaliLinux" alt="kaliLinux" width="55" height="55"/> <img src="https://img.icons8.com/?size=100&id=9AGJqJd3YEdk&format=png&color=000000" title="ParrotOS" alt="ParrotOS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://img.icons8.com/?size=100&id=122959&format=png&color=000000" title="macos" alt="macos" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" alt="Unix" width="55" height="55"/> |
 
 ### Python Libraries:
 
