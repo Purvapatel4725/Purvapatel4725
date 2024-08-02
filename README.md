@@ -19,16 +19,16 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MonogDB" alt="MonogoDB" width="55" height="55"/>|
 
+### Programming & Markup Languages:
+| Python | Bash | JS | HTML | YAML | Markdown | CSS |
+|----------|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash"  alt="bash" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="55" height="55"/> | <img src="https://img.icons8.com/?size=100&id=BWJ17Wxc99MI&format=png&color=000000" title="Markdown" alt="Markdown" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/> |
+
 ### Log & Network Analytics Tools:
 
 | Kibana | Snort |  Wireshark | Splunk | Brim |
 |----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Kiba" alt="Kiba" width="55" height="55"/>| <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" title="snort" alt="snort" width="55" height="55"/>| <img src="assets/Wireshark_icon.svg.png" alt="wsh" width="55" height="55" /> | <img src="https://img.icons8.com/?size=100&id=49188&format=png&color=000000" title="splunk" alt="splunk" width="55" height="55"/>|<img src="assets/brim.svg" alt="burp" width="85" height="55" />
-
-### Programming & Markup Languages:
-| Python | Bash | JS | HTML | YAML | Markdown | CSS |
-|----------|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash"  alt="bash" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="55" height="55"/> | <img src="https://img.icons8.com/?size=100&id=BWJ17Wxc99MI&format=png&color=000000" title="Markdown" alt="Markdown" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/> |
 
 ### AI Tools:
 | ChatGPT | Gemini | Llama | Copilot | MidJourney | DALL-E |
