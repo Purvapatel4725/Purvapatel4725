@@ -98,6 +98,11 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 
 ---
 
+<p align="center">
+  ❝ <strong>What you are is the result of what you have been. What you'll become is determined by what you do now.</strong> ❞
+</p>
+
+---
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Purvapatel4725&style=for-the-badge&color=orange" alt=""/>
 </div>
