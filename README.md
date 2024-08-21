@@ -14,7 +14,7 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 <a href="https://purvapatel4725.github.io/purvapatel/" target="blank"><img align="center" src="assets/link.png" alt="MyWebsite" height="50" width="50" /></a>
 
 ## CORE COMPETENCIES
-<div>
+<div align="center">
 
 ### Databases:
 
