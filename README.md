@@ -22,6 +22,13 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MonogDB" alt="MonogoDB" width="55" height="55"/>|
 
+### Cloud Services:
+
+| Azure | AWS |
+|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="MonogDB" alt="MonogoDB" width="55" height="55"/>|
+
+
 ### Log & Network Analytics Tools:
 
 | Kibana | Snort |  Wireshark | Splunk | Brim |
