@@ -4,7 +4,7 @@ I’m pursuing a Bachelor's degree in Information Technology, Networking, and IT
 
 Alongside technology, I have a keen interest in business, geopolitics, and world history, which enriches my understanding of global trends and decision-making, providing a well-rounded approach to tackling both technical and strategic challenges.
 
-<!--For the typing text here is the code for green color: 33FF00FF, please leave blank for a light blue color-->
+<!--For the typing text here is the code for green color: 33FF00FF, please leave blank for a light blue color
 
 **Want to know more about me? Click <a href="https://purvapatel4725.github.io/purvapatel/" target="_blank" rel="noreferrer">HERE</a>.** 
 
