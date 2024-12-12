@@ -90,7 +90,7 @@ Alongside technology, I have a keen interest in business, geopolitics, and world
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Purvapatel472&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Purvapatel4725&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
