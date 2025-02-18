@@ -33,9 +33,9 @@ Alongside technology, I have a keen interest in business, geopolitics, and world
 
 ### Log & Network Analytics Tools:
 
-| Kibana | Snort |  Wireshark | Splunk | Brim |
-|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Kiba" alt="Kiba" width="55" height="55"/>| <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" title="snort" alt="snort" width="55" height="55"/>| <img src="assets/Wireshark_icon.svg.png" alt="wsh" width="55" height="55" /> | <img src="https://img.icons8.com/?size=100&id=49188&format=png&color=000000" title="splunk" alt="splunk" width="55" height="55"/>|<img src="assets/brim.svg" alt="burp" width="85" height="55" />|
+| Kibana | Snort |  Wireshark | Splunk | Brim | Event Viewer |
+|----------|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Kiba" alt="Kiba" width="55" height="55"/>| <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" title="snort" alt="snort" width="55" height="55"/>| <img src="assets/Wireshark_icon.svg.png" alt="wsh" width="55" height="55" /> | <img src="https://img.icons8.com/?size=100&id=49188&format=png&color=000000" title="splunk" alt="splunk" width="55" height="55"/>|<img src="assets/brim.svg" alt="burp" width="85" height="55" />|<img width="48" height="48" src="https://img.icons8.com/color/48/event-log.png" alt="event-log"/> |
 
 ### Programming & Markup Languages:
 | Python | Bash | JS | HTML | YAML | Markdown | CSS |
