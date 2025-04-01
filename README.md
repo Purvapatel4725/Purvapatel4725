@@ -13,7 +13,7 @@ Alongside technology, I have a keen interest in business, geopolitics, and world
 <a href="https://twitter.com/purvapatel4725" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="purvapatel4725" height="50" width="50" /></a> 
 <a href="mailto:purva.patel@myyahoo.com" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="email" height="50" width="50" /></a>
 <a href="https://www.threads.net/@purv4p473l"><img align="center" src="assets/threads2.svg" alt="threads" height="50" width="50" /></a>
-<a href="https://purvapatel.xyz" target="blank"><img align="center" src="assets/link.png" alt="MyWebsite" height="50" width="50" /></a>
+<a href="https://www.purvapatel.xyz" target="blank"><img align="center" src="assets/link.png" alt="MyWebsite" height="50" width="50" /></a>
 
 ## CORE COMPETENCIES
 <div>
