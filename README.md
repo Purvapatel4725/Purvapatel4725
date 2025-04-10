@@ -27,9 +27,9 @@ Alongside technology, I have a keen interest in business, geopolitics, and world
 
 ### Cloud Services:
 
-| Azure | AWS | Google Cloud | Linode |
-|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Googlecloud" alt="Googlecloud" width="55" height="55"/>| <img src="https://www.vectorlogo.zone/logos/linode/linode-icon.svg" title="Linode" alt="Linode" width="55" height="55"/>|
+| Azure | AWS | Google Cloud | Linode | Aiven |
+|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Googlecloud" alt="Googlecloud" width="55" height="55"/>| <img src="https://www.vectorlogo.zone/logos/linode/linode-icon.svg" title="Linode" alt="Linode" width="55" height="55"/>| <img src="https://cdn.brandfetch.io/idXBJEbkqC/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" title="Aiven" alt="Aiven" width="55" height="55"/>|
 
 
 ### Log & Network Analytics Tools:
