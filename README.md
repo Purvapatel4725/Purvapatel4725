@@ -6,7 +6,7 @@ Alongside technology, I have a keen interest in business, geopolitics, and world
 
 <!--For the typing text here is the code for green color: 33FF00FF, please leave blank for a light blue color-->
 
-**Want to know more about me? Click <a href="https://purvapatel.xyz" target="_blank" rel="noreferrer">HERE</a>.** 
+**Want to know more about me? Click <a href="https://www.purvapatel.xyz" target="_blank" rel="noreferrer">HERE</a>.** 
 
 ## SOCIALS
 <a href="https://linkedin.com/in/purva-patel-78a10121b" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="purva-patel-78a10121b" height="50" width="50" /></a>
