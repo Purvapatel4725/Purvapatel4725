@@ -84,27 +84,7 @@ Alongside technology, I have a keen interest in business, geopolitics, and world
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Purvapatel4725&theme=juicyfresh&title=-Reviews,-Experience&no-frame=true&margin-w=18&column=-1">
-</p>
-
----
-
-  
-<p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Purvapatel4725&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
-
----
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Purvapatel4725&show_icons=true&theme=vision-friendly-dark&hide=contribs">
-</p>
-
----
-
-<p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvapatel4725&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark&langs_count=6">
 </p>
 
 ---
