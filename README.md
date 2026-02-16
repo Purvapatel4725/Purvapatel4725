@@ -20,9 +20,9 @@ Alongside technology, I have a keen interest in business, geopolitics, and world
 
 ### Databases:
 
-| MySQL | MongoDB | Postgres | 
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MonogDB" alt="MonogoDB" width="55" height="55"/>| <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres" alt="Postgres" width="55" height="55"/>|
+| MySQL | MongoDB | Postgres | SQLite |
+|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MonogDB" alt="MonogoDB" width="55" height="55"/>| <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres" alt="Postgres" width="55" height="55"/>| <img src="https://www.svgrepo.com/show/374094/sqlite.svg" title="sqlite" alt="sqlite" width="55" height="55"/>
 
 
 ### Cloud Services:
