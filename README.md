@@ -86,7 +86,7 @@ Alongside technology, I have a keen interest in business, geopolitics, and world
 ---
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Purvapatel4725&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Purvapatel4725&theme=blue-navy&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 ---
@@ -97,5 +97,5 @@ Alongside technology, I have a keen interest in business, geopolitics, and world
 
 ---
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Purvapatel4725&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Purvapatel4725&style=for-the-badge&color=blue" alt=""/>
 </div>
