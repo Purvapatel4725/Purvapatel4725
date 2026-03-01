@@ -8,7 +8,7 @@ Alongside technology, I have a keen interest in business, geopolitics, and world
 
 **Want to know more about me? Click <a href="https://www.purva-patel.com" target="_blank" rel="noreferrer">HERE</a>.** 
 
-## SOCIALS
+## CONNECT WITH ME
 <a href="https://linkedin.com/in/purva-patel-78a10121b" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="purva-patel-78a10121b" height="50" width="50" /></a>
 <a href="https://twitter.com/purvapatel4725" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="purvapatel4725" height="50" width="50" /></a> 
 <a href="mailto:connect@purva-patel.com" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="email" height="50" width="50" /></a>
